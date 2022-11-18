@@ -1,6 +1,6 @@
 # food-order-form
 
-
+it's a simple java project
 
 FOOD ORDER FORM IN JAVA
 to run the project:
